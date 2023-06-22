@@ -1,2 +1,2 @@
 # tableau
-This repository is made to show my first tableau test and learning achievements.
+This repository is made to show my tableau test and learning achievements.
